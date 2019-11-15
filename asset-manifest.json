@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/umairali200/app3.git/static/css/main.fc941960.chunk.css",
+    "main.js": "/umairali200/app3.git/static/js/main.b452ee25.chunk.js",
+    "main.js.map": "/umairali200/app3.git/static/js/main.b452ee25.chunk.js.map",
+    "runtime-main.js": "/umairali200/app3.git/static/js/runtime-main.3d663844.js",
+    "runtime-main.js.map": "/umairali200/app3.git/static/js/runtime-main.3d663844.js.map",
+    "static/css/2.eb45ad44.chunk.css": "/umairali200/app3.git/static/css/2.eb45ad44.chunk.css",
+    "static/js/2.d52abac3.chunk.js": "/umairali200/app3.git/static/js/2.d52abac3.chunk.js",
+    "static/js/2.d52abac3.chunk.js.map": "/umairali200/app3.git/static/js/2.d52abac3.chunk.js.map",
+    "index.html": "/umairali200/app3.git/index.html",
+    "precache-manifest.3f798c911e20d08a83bcbbfe4dac0fee.js": "/umairali200/app3.git/precache-manifest.3f798c911e20d08a83bcbbfe4dac0fee.js",
+    "service-worker.js": "/umairali200/app3.git/service-worker.js",
+    "static/css/2.eb45ad44.chunk.css.map": "/umairali200/app3.git/static/css/2.eb45ad44.chunk.css.map",
+    "static/css/main.fc941960.chunk.css.map": "/umairali200/app3.git/static/css/main.fc941960.chunk.css.map",
+    "static/media/Eye.jpg": "/umairali200/app3.git/static/media/Eye.475df43e.jpg",
+    "static/media/App.css": "/umairali200/app3.git/static/media/Flow.3dd6bca4.jpeg",
+    "static/media/N1.jpg": "/umairali200/app3.git/static/media/N1.93f40e10.jpg",
+    "static/media/N2.jpg": "/umairali200/app3.git/static/media/N2.943ba879.jpg",
+    "static/media/N3.jpg": "/umairali200/app3.git/static/media/N3.b0b6585e.jpg",
+    "static/media/N4.jpg": "/umairali200/app3.git/static/media/N4.5083d52c.jpg",
+    "static/media/N5.jpg": "/umairali200/app3.git/static/media/N5.bdcb700d.jpg",
+    "static/media/N6.jpg": "/umairali200/app3.git/static/media/N6.db7315b7.jpg",
+    "static/media/N7.jpg": "/umairali200/app3.git/static/media/N7.57d33976.jpg",
+    "static/media/Nail.jpg": "/umairali200/app3.git/static/media/Nail.1e28552d.jpg",
+    "static/media/Shade.jpg": "/umairali200/app3.git/static/media/Shade.5ce46dc6.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3d663844.js",
+    "static/css/2.eb45ad44.chunk.css",
+    "static/js/2.d52abac3.chunk.js",
+    "static/css/main.fc941960.chunk.css",
+    "static/js/main.b452ee25.chunk.js"
+  ]
+}
